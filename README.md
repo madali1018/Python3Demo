@@ -1,7 +1,8 @@
-# Python3Demo
+Python3教程中的Demo
 
- Python3教程中的Demo
-
-
+日志
 闭包
 装饰器
+
+使用元类：metaclass是Python中非常具有魔术性的对象，它可以改变类创建时的行为。这种强大的功能使用起来务必小心。
+
