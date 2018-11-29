@@ -1,8 +1,16 @@
-Python3教程中的Demo
+## Python3教程中的Demo ##
 
-日志
-闭包
-装饰器
+1. idea run python程序前序配置：
+	1. idea需要在plugins中按照python，然后重启ieda。
+	2. Project Structure，Project指定Python的安装路径。
+	3. run python程序
+	4. 
 
-使用元类：metaclass是Python中非常具有魔术性的对象，它可以改变类创建时的行为。这种强大的功能使用起来务必小心。
+
+1. 
+2. 
+	
+ 
+  
+
 
